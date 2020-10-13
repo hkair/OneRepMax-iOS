@@ -1,5 +1,5 @@
 # OneRepMax-iOS
-An iOS One Rep Max calculator for powerlifting.
+An iOS One Rep Max calculator for Powerlifting.
 
 ## Getting Started
 
